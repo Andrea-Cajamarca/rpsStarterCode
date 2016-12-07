@@ -10,3 +10,24 @@
     text-align: center;
     padding: 20px;
 }
+
+#rock{
+ background-image: url(http://3.bp.blogspot.com/-KHc70esXncY/T76RN0I7mKI/AAAAAAAAOwg/8xUnLhIcHGU/s1600/key%2Bholder.jpg);
+ background-attachment: fixed;
+ background-size: 100px;
+ background-position: center;
+}
+
+#paper{
+ background-image: url(http://3.bp.blogspot.com/-KHc70esXncY/T76RN0I7mKI/AAAAAAAAOwg/8xUnLhIcHGU/s1600/key%2Bholder.jpg);
+ background-attachment: fixed;
+ background-size: 100px;
+ background-position: center;
+}
+
+#scissors{
+ background-image: url(http://3.bp.blogspot.com/-KHc70esXncY/T76RN0I7mKI/AAAAAAAAOwg/8xUnLhIcHGU/s1600/key%2Bholder.jpg);
+ background-attachment: fixed;
+ background-size: 100px;
+ background-position: center;
+}
